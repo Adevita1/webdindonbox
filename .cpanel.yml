@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -r * /home/Adevita1/webdindonbox/new/main
+    - /bin/cp -r * /home4/adrianni/repositories/webdindonbox
