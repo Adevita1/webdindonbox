@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -r * /home4/adrianni/webdindonbox
+    - /bin/cp -r * /home4/adrianni/public_html/
