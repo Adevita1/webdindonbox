@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/cp -r * /home/Adevita1/webdindonbox/new/main
